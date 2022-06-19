@@ -1,4 +1,4 @@
-DATE OF SUBMISSION:2022/19/6
+DATE OF SUBMISSION:2022/6/19
 
 Getting Started With Xaamp ,Php
 What is XAMPP?
